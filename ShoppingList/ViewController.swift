@@ -131,7 +131,7 @@ class ViewController: UIViewController {
         item6Text.text = ""
         
         //reset shopping list name
-        shoppingListName.text = "Shopping List"
+        //shoppingListName.text = "Shopping List"
 
     }
     
